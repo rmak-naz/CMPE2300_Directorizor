@@ -1,0 +1,9 @@
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\bin\Debug\Lab2_Directorizor.exe.config
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\bin\Debug\Lab2_Directorizor.exe
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\bin\Debug\Lab2_Directorizor.pdb
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\obj\Debug\Lab2_Directorizor.csprojResolveAssemblyReference.cache
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\obj\Debug\Lab2_Directorizor.Lab2_Directorizor.resources
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\obj\Debug\Lab2_Directorizor.Properties.Resources.resources
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\obj\Debug\Lab2_Directorizor.csproj.GenerateResource.Cache
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\obj\Debug\Lab2_Directorizor.exe
+D:\University Courses\CMPE2300\Lab2_Directorizor\Lab2_Directorizor\obj\Debug\Lab2_Directorizor.pdb
